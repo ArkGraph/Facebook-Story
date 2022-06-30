@@ -3,5 +3,8 @@ sch:
 https://www.google.com/search?q=how+to+save+facebook+story+video
 https://www.google.com/search?q=How+can+I+download+a+Facebook+Story+video%3F
 
-index:
+guide:
+https://3nions.com/how-to-download-facebook-stories/
+
+product:
 https://filmora.wondershare.com/facebook/download-facebook-story.html
