@@ -8,3 +8,6 @@ https://3nions.com/how-to-download-facebook-stories/
 
 product:
 https://filmora.wondershare.com/facebook/download-facebook-story.html
+
+App.Extension:
+https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk?hl=en
